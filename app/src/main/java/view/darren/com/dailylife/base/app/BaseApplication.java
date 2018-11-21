@@ -4,6 +4,7 @@ import android.app.Application;
 import android.content.Context;
 
 import cn.ycbjie.ycthreadpoollib.PoolThread;
+import com.blankj.utilcode.util.Utils;
 
 public class BaseApplication extends Application{
     private static BaseApplication instance;
@@ -24,6 +25,8 @@ public class BaseApplication extends Application{
     @Override
     public void onCreate() {
         super.onCreate();
+        instance = this;
+        Utils.init(this);
         initThreadPool();
     }
 

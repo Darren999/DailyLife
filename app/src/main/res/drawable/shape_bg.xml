@@ -7,7 +7,7 @@
             android:width="1px"
             android:color="@android:color/transparent" />
     <!-- 矩形的圆角半径 -->
-    <corners android:radius="10dp" />
+    <corners android:radius="20dp" />
     <padding
             android:bottom="1dp"
             android:left="1dp"
