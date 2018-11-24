@@ -1,7 +1,15 @@
 package view.darren.com.dailylife.comment;
 
+import android.os.Environment;
+
 public class Constant {
+    public static final int REALM_VERSION = 0;
+    public static final String REALM_NAME = "yc";
     public static final String SP_NAME = "yc";
+    public static final String ExternalStorageDirectory =
+            Environment.getExternalStorageDirectory().getAbsolutePath() + "/";
+
+    public static String DATABASE_FILE_PATH_FOLDER = "WeekToDo";
 
     public interface viewType{
         int typeBanner = 1;         //轮播图

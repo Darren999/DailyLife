@@ -13,6 +13,7 @@ import android.widget.Button;
 
 import android.widget.ImageView;
 import butterknife.Bind;
+import com.blankj.utilcode.util.ActivityUtils;
 import com.yc.cn.ycbannerlib.BannerView;
 import com.yc.cn.ycbannerlib.banner.adapter.AbsDynamicPagerAdapter;
 import com.yc.cn.ycbannerlib.banner.inter.OnPageListener;
@@ -86,7 +87,13 @@ public class SplashPagerActivity extends BaseActivity {
     }
         @Override
     public void initListener() {
-
+        btnGo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                ActivityUtils.startActivity(SelectFollowActivity.class);
+                finish();
+            }
+        });
     }
 
     @Override

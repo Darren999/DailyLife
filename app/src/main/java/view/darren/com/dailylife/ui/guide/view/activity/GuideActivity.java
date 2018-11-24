@@ -1,6 +1,7 @@
 package view.darren.com.dailylife.ui.guide.view.activity;
 
 import android.view.View;
+import view.darren.com.dailylife.R;
 import view.darren.com.dailylife.base.mvp.BaseActivity;
 import view.darren.com.dailylife.ui.guide.presenter.GuidePresenter;
 
@@ -14,7 +15,7 @@ public class GuideActivity extends BaseActivity<GuidePresenter> implements View.
 
     @Override
     public int getContentView() {
-        return 0;
+        return R.layout.activity_guide;
     }
 
     @Override
