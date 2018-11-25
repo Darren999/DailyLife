@@ -1,34 +1,39 @@
 package view.darren.com.dailylife.ui.guide.view.activity;
 
+import android.support.annotation.NonNull;
 import android.support.design.widget.NavigationView;
+import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBar;
 import android.support.v7.widget.Toolbar;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
-import android.widget.FrameLayout;
-import android.widget.LinearLayout;
-import android.widget.TextView;
+import android.view.*;
+import android.widget.*;
 import butterknife.Bind;
 import com.blankj.utilcode.util.ActivityUtils;
+import com.blankj.utilcode.util.LogUtils;
 import com.flyco.tablayout.CommonTabLayout;
 import com.flyco.tablayout.listener.CustomTabEntity;
 import com.flyco.tablayout.listener.OnTabSelectListener;
+import com.ns.yc.ycutilslib.activityManager.AppManager;
 import com.ns.yc.ycutilslib.viewPager.NoSlidingViewPager;
 import com.pedaily.yc.ycdialoglib.customToast.ToastUtil;
+import pub.devrel.easypermissions.AppSettingsDialog;
 import pub.devrel.easypermissions.EasyPermissions;
 import view.darren.com.dailylife.R;
 import view.darren.com.dailylife.base.mvp.BaseActivity;
-import view.darren.com.dailylife.model.TabEntity;
+import view.darren.com.dailylife.inter.listener.PerfectClickListener;
 import view.darren.com.dailylife.ui.guide.presenter.MainPresenter;
 import view.darren.com.dailylife.ui.main.MainContract;
+import view.darren.com.dailylife.utils.image.ImageUtils;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Timer;
+import java.util.TimerTask;
 
 public class MainActivity extends BaseActivity<MainPresenter> implements View.OnClickListener
     , EasyPermissions.PermissionCallbacks,MainContract.View{
+    private final String TAG = "MainActivity";
 
     @Bind(R.id.fl_title_menu)
     FrameLayout flTitleMenu;
@@ -50,6 +55,18 @@ public class MainActivity extends BaseActivity<MainPresenter> implements View.On
     NavigationView navView;
     @Bind(R.id.drawer_layout)
     DrawerLayout drawerLayout;
+
+    private ImageView ivAvatar;
+    private LinearLayout llNavScanDownload;
+    private LinearLayout llNavFeedback;
+    private LinearLayout llNavAbout;
+    private LinearLayout llNavLogin;
+    private LinearLayout llNavVideo;
+    private LinearLayout llNavHomepage;
+    private View view;
+    private long time;
+    private  int exitCount = 0;
+
 
     private MainContract.Presenter presenter = new MainPresenter(this);
     @Override
@@ -79,16 +96,30 @@ public class MainActivity extends BaseActivity<MainPresenter> implements View.On
 
     @Override
     public void initView() {
+        initDrawerLayoutStatus();
         initBar();
         initTabLayout();
+        initViewPager();
+        initNav();
+        initPermissions();
     }
 
-    private void initBar() {
-        setSupportActionBar(toolbar);
-        ActionBar actionBar = getSupportActionBar();
-        if(actionBar != null){
-            actionBar.setDisplayShowTitleEnabled(false);
-        }
+    private void initNav() {
+        view = navView.inflateHeaderView(R.layout.nav_header_main);
+        ivAvatar = (ImageView)view.findViewById(R.id.iv_avatar);
+        TextView tvUserName = (TextView)view.findViewById(R.id.tv_username);
+        llNavHomepage = (LinearLayout) view.findViewById(R.id.ll_nav_homepage);
+        llNavScanDownload = (LinearLayout) view.findViewById(R.id.ll_nav_scan_download);
+        llNavFeedback = (LinearLayout) view.findViewById(R.id.ll_nav_feedback);
+        llNavAbout = (LinearLayout) view.findViewById(R.id.ll_nav_about);
+        llNavLogin = (LinearLayout) view.findViewById(R.id.ll_nav_login);
+        llNavVideo = (LinearLayout) view.findViewById(R.id.ll_nav_video);
+        ImageUtils.loadImgByPicassoWithCircle(this, R.drawable.ic_person_logo, ivAvatar);
+        tvUserName.setText("行者");
+    }
+
+    private void initViewPager() {
+
     }
 
     private void initTabLayout() {
@@ -110,7 +141,96 @@ public class MainActivity extends BaseActivity<MainPresenter> implements View.On
 
     @Override
     public void initListener() {
+        flTitleMenu.setOnClickListener(this);
+        navView.setOnClickListener(this);
+        if(view != null){
+            ivAvatar.setOnClickListener(listener);
+            llNavHomepage.setOnClickListener(listener);
+            llNavScanDownload.setOnClickListener(listener);
+            llNavFeedback.setOnClickListener(listener);
+            llNavLogin.setOnClickListener(listener);
+            llNavVideo.setOnClickListener(listener);
+            setting.setOnClickListener(listener);
+            quit.setOnClickListener(listener);
+        }
+    }
 
+    private PerfectClickListener listener = new PerfectClickListener() {
+
+        @Override
+        protected void onNoDoubleClick(final View v) {
+            drawerLayout.closeDrawer(GravityCompat.START);
+            drawerLayout.postDelayed(new Runnable() {
+                @Override
+                public void run() {
+                    switch (v.getId()){
+                        case R.id.iv_avatar:
+                            break;
+                        case R.id.ll_nav_homepage:
+                            break;
+                        case R.id.ll_nav_scan_download:
+                            break;
+                        case R.id.ll_nav_feedback:
+                            break;
+                        case R.id.ll_nav_about:
+                            break;
+                        case R.id.ll_nav_login:
+                            break;
+                        case R.id.setting:
+                            break;
+                        case R.id.quit:
+                            AppManager.getAppManager().appExit(false);
+                            break;
+                        default:
+                            break;
+                    }
+                }
+            }, 0);
+        }
+    };
+
+    @Override
+    public void onBackPressed() {
+        if(drawerLayout != null && drawerLayout.isDrawerOpen(GravityCompat.START)){
+            drawerLayout.closeDrawer(GravityCompat.START);
+        }else {
+            super.onBackPressed();
+        }
+    }
+
+    @Override
+    public boolean onKeyDown(int keyCode, KeyEvent event) {
+        LogUtils.d(TAG,"onKeyDown:"+keyCode);
+        if(keyCode == KeyEvent.KEYCODE_BACK){
+            if(drawerLayout != null && drawerLayout.isDrawerOpen(GravityCompat.START)){
+                drawerLayout.closeDrawer(GravityCompat.START);
+            }else{
+//                if(System.currentTimeMillis() - time > 1000) {
+//                    ToastUtil.showToast(this, "再按一次返回桌面");
+//                    time = System.currentTimeMillis();
+//                }else{
+//                    moveTaskToBack(true);
+//                }
+                Timer timer = new Timer();
+                timer.schedule(new TimerTask() {
+                    @Override
+                    public void run() {
+                        LogUtils.d(TAG,"clear flag");
+                        exitCount = 0;
+                    }
+                },1000);
+
+                exitCount++;
+                if(exitCount < 2) {
+                    ToastUtil.showToast(this, "再按一次返回桌面");
+                }else {
+                    moveTaskToBack(false);
+
+                }
+            }
+            return true;
+        }
+        return super.onKeyDown(keyCode, event);
     }
 
     @Override
@@ -120,16 +240,56 @@ public class MainActivity extends BaseActivity<MainPresenter> implements View.On
 
     @Override
     public void onClick(View view) {
+        switch (view.getId()){
+            case R.id.fl_title_menu:
+                drawerLayout.openDrawer(GravityCompat.START);
+                break;
+            default:
+                break;
+        }
+    }
 
+    private void initDrawerLayoutStatus() {
+
+    }
+
+    private void initBar() {
+        setSupportActionBar(toolbar);
+        ActionBar actionBar = getSupportActionBar();
+        if(actionBar != null){
+            actionBar.setDisplayShowTitleEnabled(false);
+        }
+    }
+
+    private void initPermissions() {
+        presenter.locationPermisionsTask();
+    }
+
+    @Override
+    public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+        EasyPermissions.onRequestPermissionsResult(requestCode,permissions,grantResults,MainActivity.this);
     }
 
     @Override
     public void onPermissionsGranted(int requestCode, List<String> perms) {
-
+        LogUtils.d(TAG, "onPermissionsGranted:" + requestCode + ":" + perms.size());
     }
 
     @Override
     public void onPermissionsDenied(int requestCode, List<String> perms) {
-
+        LogUtils.d(TAG, "onPermissionsDenied:" + requestCode + ":" + perms.size());
+        if(EasyPermissions.somePermissionPermanentlyDenied(MainActivity.this,perms)){
+            AppSettingsDialog.Builder builder = new AppSettingsDialog.Builder(MainActivity.this);
+            builder.setTitle("允许权限")
+                    .setRationale("没有该权限，此应用程序部分功能可能无法正常工作。打开应用设置界面以修改应用权限")
+                    .setPositiveButton("去设置")
+                    .setNegativeButton("取消")
+                    .setRequestCode(124)
+                    .build()
+                    .show();
+        }
     }
+
+
 }
