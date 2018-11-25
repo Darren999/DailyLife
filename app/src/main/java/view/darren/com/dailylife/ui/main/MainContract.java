@@ -7,7 +7,7 @@ import view.darren.com.dailylife.base.mvp.BaseView;
 
 import java.util.ArrayList;
 
-public class MainContract {
+public interface MainContract {
 
     interface View extends BaseView {
 

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DaliyLife</string>
+    <string name="easy_permissions">该APP需要您允许打开电话，拍摄照片和访问设备上的文件的权限</string>
+    <string name="introduce">关于开发的APP有：投资界，新芽，可以在应用市场上下载
+        \n\n此项目属于业余时间练手的项目，接口数据来源均来自网络，自己付费购买了阿里云和极速网络接口数据，同时使用了部分免费接口，如果存在侵权情况，请第一时间告知
+        \n\n本项目仅做学习交流使用，API数据内容所有权归原作公司所有，请勿用于其他用途</string>
 </resources>
