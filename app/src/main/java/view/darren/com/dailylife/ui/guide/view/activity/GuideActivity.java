@@ -82,8 +82,6 @@ public class GuideActivity extends BaseActivity<GuidePresenter> implements Guide
         });
     }
 
-
-
     @Override
     public void onClick(View view) {
         switch (view.getId()){
@@ -101,13 +99,12 @@ public class GuideActivity extends BaseActivity<GuidePresenter> implements Guide
         finish();
     }
 
-
-
-
-
     @Override
     public void initData() {
-
+        presenter.cacheHomeNewsData();
+        presenter.cacheHomePile();
+        presenter.cacheFindNewsData();
+        presenter.cacheFindBottomNewsData();
     }
 
     @Override

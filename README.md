@@ -1,4 +1,5 @@
 # DailyLife helper
+#本项目非原创，纯属个人练手
 步骤1：实现了SplashPagerActivity
 
 1）TypedArray存储四张图片

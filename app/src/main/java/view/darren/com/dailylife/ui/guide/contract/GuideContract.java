@@ -12,7 +12,7 @@ public interface GuideContract {
         void cacheHomeNewsData();
         void cacheFindNewsData();
         void cacheFindBottomNewsData();
-        void cacheHomePileData();
+        void cacheHomePile();
         void startGuideImage();
     }
 }

@@ -1,11 +1,15 @@
 package view.darren.com.dailylife.ui.guide.view.activity;
 
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.design.widget.NavigationView;
+import android.support.v4.app.Fragment;
 import android.support.v4.view.GravityCompat;
+import android.support.v4.view.ViewPager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBar;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.*;
 import android.widget.*;
 import butterknife.Bind;
@@ -20,7 +24,10 @@ import com.pedaily.yc.ycdialoglib.customToast.ToastUtil;
 import pub.devrel.easypermissions.AppSettingsDialog;
 import pub.devrel.easypermissions.EasyPermissions;
 import view.darren.com.dailylife.R;
+import view.darren.com.dailylife.base.adapter.BaseDelegateAdapter;
+import view.darren.com.dailylife.base.adapter.BasePagerAdapter;
 import view.darren.com.dailylife.base.mvp.BaseActivity;
+import view.darren.com.dailylife.comment.factory.FragmentFactory;
 import view.darren.com.dailylife.inter.listener.PerfectClickListener;
 import view.darren.com.dailylife.ui.guide.presenter.MainPresenter;
 import view.darren.com.dailylife.ui.main.MainContract;
@@ -119,6 +126,37 @@ public class MainActivity extends BaseActivity<MainPresenter> implements View.On
     }
 
     private void initViewPager() {
+        List<Fragment> fragments = new ArrayList<>();
+        fragments.add(FragmentFactory.getInstance().getHomeFragment());
+        fragments.add(FragmentFactory.getInstance().getFindFragment());
+        fragments.add(FragmentFactory.getInstance().getDataFragment());
+        fragments.add(FragmentFactory.getInstance().getMeFragment());
+        BasePagerAdapter adapter = new BasePagerAdapter(getSupportFragmentManager(),fragments);
+        vpHome.setAdapter(adapter);
+
+        LogUtils.d(TAG,"initViewPager");
+        vpHome.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+            @Override
+            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
+
+            }
+
+            @Override
+            public void onPageSelected(int position) {
+                LogUtils.d(TAG,"onPageSelected position:"+position);
+                if(position >= 0 ){
+                    ctlTable.setCurrentTab(position);
+                }
+            }
+
+            @Override
+            public void onPageScrollStateChanged(int state) {
+
+            }
+        });
+
+        vpHome.setCurrentItem(0);
+        vpHome.setOffscreenPageLimit(4);
 
     }
 
@@ -129,7 +167,27 @@ public class MainActivity extends BaseActivity<MainPresenter> implements View.On
         ctlTable.setOnTabSelectListener(new OnTabSelectListener() {
             @Override
             public void onTabSelect(int position) {
-
+                vpHome.setCurrentItem(position);
+                switch (position){
+                    case 0:
+                        tvTitle.setVisibility(View.VISIBLE);
+                        tvTitle.setText("新闻首页");
+                        break;
+                    case 1:
+                        tvTitle.setVisibility(View.VISIBLE);
+                        tvTitle.setText("数据中心");
+                        break;
+                    case 2:
+                        tvTitle.setVisibility(View.VISIBLE);
+                        tvTitle.setText("生活应用");
+                        break;
+                    case 3:
+                        tvTitle.setVisibility(View.VISIBLE);
+                        tvTitle.setText("更多内容");
+                        break;
+                    default:
+                        break;
+                }
             }
 
             @Override
@@ -235,6 +293,7 @@ public class MainActivity extends BaseActivity<MainPresenter> implements View.On
 
     @Override
     public void initData() {
+        presenter.getUpdate();
 
     }
 
@@ -291,5 +350,13 @@ public class MainActivity extends BaseActivity<MainPresenter> implements View.On
         }
     }
 
-
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        if (requestCode == AppSettingsDialog.DEFAULT_SETTINGS_REQ_CODE) {
+            // Do something after user returned from app settings screen, like showing a Toast.
+            // 当用户从应用设置界面返回的时候，可以做一些事情，比如弹出一个土司。
+            LogUtils.d(TAG, "onPermissionsDenied:" + requestCode + ":");
+        }
+    }
 }

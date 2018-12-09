@@ -1,6 +1,10 @@
 package view.darren.com.dailylife.comment;
 
 import android.os.Environment;
+import view.darren.com.dailylife.model.bean.HomeBlogEntity;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class Constant {
     public static final int REALM_VERSION = 0;
@@ -26,4 +30,13 @@ public class Constant {
 
     public static final String KEY_FIRST_SPLASH = "first_splash";                 //是否第一次启动
 
+    /**-------------------------------------集合-------------------------------------------------**/
+    //
+    public static List<HomeBlogEntity> findNews = new ArrayList<>();
+    public static List<HomeBlogEntity> findBottomNews = new ArrayList<>();
+
+
+    /**-------------------------------------腾讯x5页面-------------------------------------------------**/
+    public static final String SP_NO_IMAGE = "no_image";
+    public static final String SP_AUTO_CACHE = "auto_cache";
 }
