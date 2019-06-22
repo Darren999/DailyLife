@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.yc:notificationLib:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/notificationLib-1.0.3.aar/b1ad31b1741a6c00af02012a57269897/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/notificationLib-1.0.3.aar/b1ad31b1741a6c00af02012a57269897/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.yc/notificationLib/1.0.3/91e237d92099f50301e1f70f4f1a936a44566055/notificationLib-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

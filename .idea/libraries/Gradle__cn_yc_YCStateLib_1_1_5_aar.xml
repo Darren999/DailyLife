@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.yc:YCStateLib:1.1.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YCStateLib-1.1.5.aar/df34ab57c0c02499125f08f8d018727c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YCStateLib-1.1.5.aar/df34ab57c0c02499125f08f8d018727c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.yc/YCStateLib/1.1.5/4573e86d8d248e34f563eee6c2190a8bac355d15/YCStateLib-1.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

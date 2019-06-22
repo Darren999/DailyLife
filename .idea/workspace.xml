@@ -1,0 +1,1586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <library-updates>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>percent</name>
+        <version>28.0.0</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>palette-v7</name>
+        <version>28.0.0</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.okhttp3</group-id>
+        <name>okhttp</name>
+        <version>4.0.0-alpha02</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.retrofit2</group-id>
+        <name>adapter-rxjava</name>
+        <version>2.5.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>support-dynamic-animation</name>
+        <version>28.0.0</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.retrofit2</group-id>
+        <name>retrofit</name>
+        <version>2.5.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>cn.yc</group-id>
+        <name>app</name>
+        <version>1.1</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>cn.yc</group-id>
+        <name>YCCardViewLib</name>
+        <version>1.1</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>support-annotations</name>
+        <version>28.0.0</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>io.reactivex.rxjava2</group-id>
+        <name>rxjava</name>
+        <version>2.2.9</version>
+        <repository>Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>recyclerview-v7</name>
+        <version>28.0.0</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>appcompat-v7</name>
+        <version>28.0.0</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>design</name>
+        <version>28.0.0</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.github.bumptech.glide</group-id>
+        <name>glide</name>
+        <version>4.9.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.picasso</group-id>
+        <name>picasso</name>
+        <version>2.71828</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>support-v4</name>
+        <version>28.0.0</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>multidex</name>
+        <version>1.0.3</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.constraint</group-id>
+        <name>constraint-layout</name>
+        <version>2.0.0-beta1</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>io.reactivex.rxjava2</group-id>
+        <name>rxandroid</name>
+        <version>2.1.1</version>
+        <repository>Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>org.greenrobot</group-id>
+        <name>eventbus</name>
+        <version>3.1.1</version>
+        <repository>Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.retrofit2</group-id>
+        <name>converter-gson</name>
+        <version>2.5.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.okhttp3</group-id>
+        <name>logging-interceptor</name>
+        <version>4.0.0-alpha02</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.jakewharton.rxrelay2</group-id>
+        <name>rxrelay</name>
+        <version>2.1.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.retrofit2</group-id>
+        <name>adapter-rxjava2</name>
+        <version>2.5.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>cardview-v7</name>
+        <version>28.0.0</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.github.bumptech.glide</group-id>
+        <name>compiler</name>
+        <version>4.9.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+    </library-updates>
+    <last-search-timestamp>1560604271603</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="989140a4-03cd-4b2f-a12a-7739c017ea97" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/base/adapter/BaseBannerPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/base/adapter/BaseDelegateAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/base/adapter/BaseViewPagerRollAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/base/app/BaseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/view/darren/com/dailylife/base/app/BaseApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/base/comment/FragmentFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/model/bean/ImageIconBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/model/bean/ItemEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/model/bean/SelectPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/service/LoopRequestService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/data/contract/DataFragmentContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/data/presenter/DataFragmentPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/data/view/adapter/DataToolAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/data/view/adapter/NarrowImageAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/data/view/adapter/ViewPagerGridAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/data/view/fragment/DataFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/find/contract/FindFragmentContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/find/model/VideoIconBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/find/presenter/FindFragmentPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/find/view/activity/MyVideoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/find/view/adapter/VideoGridAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/find/view/fragment/FindFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/guide/contract/GuideContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/guide/contract/SelectFollowContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/guide/presenter/GuidePresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/guide/presenter/SelectFollowPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/guide/view/activity/GuideActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/guide/view/activity/SelectFollowActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/guide/view/activity/SplashActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/guide/view/activity/SplashPagerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/guide/view/adapter/SelectFollowAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/home/contract/HomeFragmentContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/home/model/GalleryBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/home/presenter/HomeFragmentPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/home/view/adapter/HomeBlogAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/home/view/fragment/HomeFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/main/contract/MainContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/main/presenter/MainPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/main/view/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/main/view/SchemeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/contract/MeFragmentContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/contract/MeNewsCollectContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/contract/MeSettingContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/presenter/MeFragmentPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/presenter/MeNewsCollectPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/presenter/MeSettingPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/view/MeFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/view/activity/IndexJsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/view/activity/MeCollectActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/view/activity/MeLoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/view/activity/MePersonActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/view/activity/MePersonBaseView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/view/activity/MeSettingActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/view/activity/MeTimerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/view/adapter/MeNewsLikeAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/view/fragment/MeDocCollectFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/view/fragment/MeNewsCollectFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/view/fragment/MePersonFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/ui/me/view/fragment/MePicCollectFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/utils/DialogUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/utils/FileCacheUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/utils/GoToScoreUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/weight/MyGridView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ns/yc/lifehelper/weight/WatcherBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/animator_set.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/animator_value.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/photo_dialog_in_anim.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/photo_dialog_out_anim.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/roate_0_180.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/roate_180_360.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_content.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_me_collect.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_me_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_me_person.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_me_setting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_me_timer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_select_follow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash_pager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_video_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/base_btn_title_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_custom_window.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_me.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_me_person_first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_me_person_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/head_home_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/head_video_news_top.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_card_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_me_like_article.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_me_like_girl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_vp_grid_iv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_vp_grid_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_title_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/nav_bottom_set.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/tag_select_follow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_grid_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_pager_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_pager_very_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_people_certification_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_vlayout_grid.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_vlayout_marquee.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_vlayout_plus.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/main_menu_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_weather_home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/BookApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/fjGame/AutoSprite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/fjGame/Award.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/fjGame/BigEnemyPlane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/fjGame/BombAward.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/fjGame/Bullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/fjGame/BulletAward.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/fjGame/CombatAircraft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/fjGame/EnemyPlane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/fjGame/Explosion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/fjGame/GameView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/fjGame/MiddleEnemyPlane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/fjGame/SmallEnemyPlane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/fjGame/Sprite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/mzGame/GamePinTuLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/mzGame/ImagePiece.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/ui/activity/AirGameActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/ui/activity/DoodleViewActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/ui/activity/GameActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/ui/activity/PinTuGameActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/weight/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/weight/doodleView/BaseAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/java/com/ycbjie/book/weight/doodleView/DoodleView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/module/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/drawable-xhdpi/big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/drawable-xhdpi/blue_bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/drawable-xhdpi/bomb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/drawable-xhdpi/bomb_award.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/drawable-xhdpi/bullet_award.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/drawable-xhdpi/explosion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/drawable-xhdpi/middle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/drawable-xhdpi/pause1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/drawable-xhdpi/pause2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/drawable-xhdpi/small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/drawable-xhdpi/yellow_bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/drawable/plane.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/layout/activity_air_game.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/layout/activity_doodleview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/layout/activity_game.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/layout/activity_pin_tu_game.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/menu/doodle_menu_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/values/attrs_game_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/api/DouBanApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/api/DouBanModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/app/DouBanApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/bean/DouBookBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/bean/DouBookDetailBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/bean/DouHotMovieBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/bean/DouMovieDetailBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/bean/DouMusicBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/bean/DouMusicDetailBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/contract/DouBookContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/presenter/DouBookPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/view/activity/DouBookActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/view/activity/DouBookDetailActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/view/activity/DouMovieActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/view/activity/DouMusicActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/view/activity/DouMusicDetailActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/view/activity/MovieDetailActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/view/activity/MovieTopActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/view/adapter/DouBookAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/view/adapter/DouMovieAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/view/adapter/DouMusicAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/view/adapter/MovieDetailAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/view/adapter/MovieTopAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/view/fragment/DouBookFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/view/fragment/DouMusicFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/java/com/ycbjie/douban/weight/CustomChangeBounds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/module/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/res/layout/activity_book_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/res/layout/activity_book_detail_content.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/res/layout/activity_book_header.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/res/layout/activity_dou_music_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/res/layout/activity_movie_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/res/layout/activity_movie_detail_content.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/res/layout/activity_movie_header.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/res/layout/head_dou_movie.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/res/layout/header_music_slide_shape.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/res/layout/item_book_dou_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/res/layout/item_movie_detail_person.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/res/layout/item_movie_dou_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/res/layout/item_movie_top_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/res/layout/item_music_dou_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/res/menu/movie_menu_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/api/GanKApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/api/GanKModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/app/GankApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/bean/bean/CategoryResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/bean/bean/GanKEveryDay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/bean/bean/GanKIoDataBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/bean/bean/SearchResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/bean/cache/CacheGanKFavorite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/bean/cache/CacheSearchHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/contract/GanKHomeAContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/contract/GanKHomeFContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/contract/GanKSearchContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/contract/GanKWebContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/presenter/GanKHomeAPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/presenter/GanKHomeFPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/presenter/GanKSearchPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/view/activity/GanKHomeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/view/activity/GanKSearchActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/view/activity/KnowledgeImageActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/view/activity/MyKnowledgeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/view/adapter/GanKAndroidAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/view/adapter/GanKHomeAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/view/adapter/GanKOtherAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/view/adapter/GanKSearchHisAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/view/adapter/GanKSearchListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/view/fragment/GanKHomeFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/view/fragment/KnowledgeAndroidFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/view/fragment/KnowledgeCustomFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/view/fragment/KnowledgeOtherFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/java/com/ycbjie/gank/view/fragment/KnowledgeVideoFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/module/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/res/drawable/ic_gank_beauty.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/res/drawable/ic_gank_collection.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/res/drawable/ic_gank_loading.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/res/drawable/ic_gank_search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/res/drawable/ic_gank_setting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/res/layout/activity_gank_home_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/res/layout/activity_gank_search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/res/layout/activity_view_big_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/res/layout/head_gank_type_all.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/res/layout/item_gank_android.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/res/layout/item_gank_collect.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/res/layout/item_gank_his_search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/res/layout/item_gank_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/res/layout/item_nice_pic_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/res/layout/view_pager_very_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/res/menu/gank_bottom_sheet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gank/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/assets/css/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/assets/dongyu/linzhengxin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/assets/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/assets/js/functions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/assets/js/garden.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/assets/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/assets/love.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/java/com/ycbjie/love/activity/LoveBrowserActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/java/com/ycbjie/love/activity/LoveGirlMainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/java/com/ycbjie/love/app/LoveApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/java/com/ycbjie/love/constant/Constant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/java/com/ycbjie/love/util/ClickUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/java/com/ycbjie/love/util/DeviceInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/java/com/ycbjie/love/util/ImageUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/java/com/ycbjie/love/view/bluesnow/FlowerView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/java/com/ycbjie/love/view/heart/AbstractPathAnimator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/java/com/ycbjie/love/view/heart/HeartLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/java/com/ycbjie/love/view/heart/HeartView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/java/com/ycbjie/love/view/heart/PathAnimator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/java/com/ycbjie/love/view/typewriter/TypeTextView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/java/com/ycbjie/love/view/whitesnow/Random.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/java/com/ycbjie/love/view/whitesnow/SnowFlake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/java/com/ycbjie/love/view/whitesnow/SnowView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/module/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/res/drawable/heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/res/drawable/heart_border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/res/layout/activity_browser.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/res/layout/activity_love_girl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/res/mipmap-hdpi/pink_snow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/res/mipmap-xxhdpi/malin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/res/values/attrs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/res/values/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/api/MusicHttpInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/api/MusicRetrofitWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/api/OnLineMusicApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/api/OnLineMusicModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/app/MusicApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/base/BaseAppHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/executor/download/AbsDownloadMusic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/executor/download/AbsDownloadOnlineMusic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/executor/download/AbsDownloadSearchMusic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/executor/inter/IExecutor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/executor/online/AbsPlayMusic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/executor/online/AbsPlayOnlineMusic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/executor/search/AbsSearchLrc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/executor/share/AbsShareOnlineMusic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/inter/EventCallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/inter/OnMoreClickListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/inter/OnPlayerEventListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/manager/AudioFocusManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/manager/AudioSoundManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/manager/MediaSessionManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/model/action/MusicPlayAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/model/bean/ArtistInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/model/bean/AudioBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/model/bean/DownloadInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/model/bean/DownloadMusicInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/model/bean/MusicLrc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/model/bean/OnLineSongListInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/model/bean/OnlineMusicList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/model/bean/SearchMusic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/model/enums/PlayModeEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/receiver/AudioBroadcastReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/receiver/AudioEarPhoneReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/receiver/EarphoneControlReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/receiver/NotificationStatusBarReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/service/PlayService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/ui/activity/ArtistInfoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/ui/activity/GuideMusicActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/ui/activity/MusicActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/ui/activity/MusicInfoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/ui/activity/OnlineMusicActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/ui/adapter/DialogMusicListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/ui/adapter/LineMusicAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/ui/adapter/LocalMusicAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/ui/adapter/OnLineMusicAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/ui/fragment/LocalMusicFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/ui/fragment/MusicFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/ui/fragment/OnLineMusicFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/ui/fragment/PlayMusicFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/CoverLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/FileMusicScanManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/FileMusicUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/FileSaveUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/ImageUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/NotificationHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/QuitTimer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/share/BaseSharePolicy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/share/Share.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/share/ShareComment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/share/ShareDetailBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/share/ShareDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/share/ShareGoodsPolicy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/share/ShareMaterialPolicy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/share/SharePolicy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/share/ShareSpecialPolicy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/share/ShareTrimPolicy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/share/ShareTypeBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/share/bitmap/GoodShareBitmap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/utils/share/bitmap/GoodShareCircleBitmap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/weight/LrcEntry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/java/com/ycbjie/music/weight/YCLrcCustomView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/module/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/anim/fragment_slide_down.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/anim/fragment_slide_up.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/anim/share_bottom_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/anim/share_bottom_out.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/anim/share_rotate_left.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/anim/share_rotate_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/anim/share_touch_down.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/anim/share_touch_up_noselect_scale.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/anim/share_touch_up_select_scale.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/default_cover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/host_pause_in_track_item.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/host_play_in_track_item.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_album_item_delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_arrow_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_back_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_back_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_collection_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_course_audio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_course_audio_none.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_course_note.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_course_note_none.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_course_video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_course_video_none.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_home_first.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_home_four.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_home_second.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_home_third.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_menu_about.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_menu_exit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_menu_home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_menu_night.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_menu_settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_menu_timer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_nav_about.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_nav_box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_nav_clothes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_nav_deedback.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_nav_exit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_nav_homepage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_nav_lamp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_nav_login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_nav_mic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_nav_night.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_nav_scan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_normal_del.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_note_btn_close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_note_btn_next_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_note_btn_pause_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_note_btn_play_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_note_btn_pre_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_pic_loading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_right_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/ic_volume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/icon_cache_delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/icon_cache_download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/icon_cache_play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/icon_cancel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/icon_close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/icon_close_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/icon_download_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/icon_pay_check_pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/icon_pay_marquee_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/image_default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/me_icon_dianhua2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/me_icon_dingdan2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/me_icon_shezhi2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/me_icon_shoucang2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/me_icon_wenda2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/me_icon_yijianfankui2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/notify_btn_dark_next_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/notify_btn_dark_pause2_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/notify_btn_dark_pause_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/notify_btn_dark_play_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xhdpi/notify_btn_dark_prev_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_bar_btn_next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_bar_btn_pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_bar_btn_play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_bar_playlist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_cmt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_cmt_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_deleted.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_loop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_loop_pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_love.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_loved.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_next_pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_one.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_one_pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_pause_pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_play_pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_prev_pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_shuffle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_shuffle_pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_play_btn_src_prs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_seek_bar_progress_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/ic_seek_bar_volume_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/icon_mine_wx.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/play_icn_more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/play_icn_more_prs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable-xxhdpi/play_page_default_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/btn_action_bg_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/play_bar_bg_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/play_bar_bg_selector_dark.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/play_bar_btn_play_pause_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/play_btn_loop_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/play_btn_next_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/play_btn_one_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/play_btn_pause_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/play_btn_play_pause_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/play_btn_play_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/play_btn_prev_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/play_btn_shuffle_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/play_mode_level_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/play_page_cover_border_shape.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/play_page_cover_top_line_shape.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/progress_bar_style.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/seek_bar_progress_style.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/drawable/seek_bar_volume_style.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/activity_artist_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/activity_home_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/activity_local_music_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/dialog_bottom_list_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/dialog_bottom_share_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/fragment_music.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/fragment_play_music.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/header_online_music.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/include_play_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/include_play_page_controller.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/item_artist_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/item_dialog_list_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/item_line_music.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/item_local_music.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/item_on_line_music.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/notification_player.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/view_share_circle_goods.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/layout/view_share_goods.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/menu/menu_music_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/menu/menu_search_music.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/mipmap-xxhdpi/bg_share_commodity_yellow_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/mipmap-xxhdpi/bg_share_commodity_yellow_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/mipmap-xxhdpi/bg_white_share_popup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/mipmap-xxhdpi/ic_close_publish_dialog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/mipmap-xxhdpi/icon_me_logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/mipmap-xxhdpi/share_poster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/mipmap-xxhdpi/share_wx_friend.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/mipmap-xxhdpi/share_wx_moment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/values/array.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/values/attrs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/values/colors_lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/src/main/res/values/styles_text.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/api/ConstantTxApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/api/TodayNewsApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/api/TodayNewsModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/api/TxNewsApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/api/TxNewsModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/api/WeChatApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/api/WeChatModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/app/NewsApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/contract/TxWeChatContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/contract/WTNodeListContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/contract/WTexPagerContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/model/NodeBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/model/NodeListBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/model/TodayNewsChannel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/model/TodayNewsDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/model/TodayNewsSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/model/TopicListBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/model/TxNewsBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/model/WeChatBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/presenter/TxWeChatPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/ui/activity/TxNewsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/ui/activity/TxWeChatNewsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/ui/activity/WyNewsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/ui/adapter/TodayNewsAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/ui/adapter/TxNewsAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/ui/adapter/TxWeChatAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/ui/fragment/TxNewsFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/java/com/ycbjie/news/ui/fragment/WyNewsFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/module/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/res/drawable-xhdpi/ic_person_logo_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/res/layout/activity_good_news.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/res/layout/base_add_tab_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/res/layout/head_good_news_top.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/res/layout/item_gold_news_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/res/layout/item_tx_news_wx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/app/NoteApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/markdown/MDFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/markdown/MDReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/markdown/MDWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/markdown/Markdown.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/markdown/parser/BoldParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/markdown/parser/CenterParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/markdown/parser/HeaderParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/markdown/parser/ItalicParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/markdown/parser/LinkParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/markdown/parser/OrderListParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/markdown/parser/QuoteParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/markdown/parser/UnOrderListParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/model/bean/NotePadDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/model/cache/CacheNoteDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/model/cache/CacheNotePad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/receiver/ReminderReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/ui/activity/MdDisplayActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/ui/activity/MdMainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/ui/activity/MdNoteActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/ui/activity/NotePadActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/ui/activity/NotePadDetailActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/ui/activity/NotePadNewActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/ui/activity/NoteTestActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/ui/adapter/MdNoteAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/ui/adapter/NotePadListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/ui/fragment/DatePickerFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/ui/fragment/TimePickerFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/utils/NoteDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/utils/SDCardUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/java/com/ycbjie/note/utils/StringUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/module/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/color/text_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/drawable-hdpi/ic_action_display.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/drawable-xhdpi/ic_save_md.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/drawable-xhdpi/ic_save_picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/drawable-xhdpi/ic_save_txt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/layout/activity_display.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/layout/activity_not_pad_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/layout/activity_not_pad_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/layout/activity_note.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/layout/activity_note_test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/layout/item_note_pad_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/layout/layout_note_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/layout/layout_toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/menu/data_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/menu/menu_display.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/menu/menu_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/menu/menu_note.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/menu/note_pad_menu_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/menu/note_pad_menu_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/app/OtherApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/AboutMeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/BannerViewActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/CloneAbleActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/ImageGalleryActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/MeBannerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/MeFeedBackActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/MeLoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/MeRegisterActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/MixtureTextViewActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/MonkeyGameActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/ProgressFirstActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/ProgressSecondActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/ProgressThirdActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/ScrollActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/SnapHelperActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/TestActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/TestFirstActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/activity/ZoomLargeImageActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/ui/adapter/MeBannerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/utils/AlignImageSpan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/utils/CenterAlignImageSpan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/utils/RoundBackgroundColorSpan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/utils/RoundedBackgroundSpan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/utils/SpannableUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/weight/ItemView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/weight/LuckyMonkeyPanelView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/java/com/ycbjie/other/weight/PanelItemView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/module/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/color/change_color.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable-xhdpi/bg_monkey_game.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable-xhdpi/btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable-xhdpi/btn_pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable-xhdpi/bubble0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable-xhdpi/bubble1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable-xhdpi/icon_question_mark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable-xxhdpi/pic_coupon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable-xxhdpi/pic_exclusive_tips1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable/bg_lucky_monkey_fortune_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable/bg_lucky_monkey_go.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable/bg_lucky_monkey_item1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable/bg_lucky_monkey_item2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable/bg_lucky_monkey_item3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable/bg_lucky_monkey_item4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable/bg_lucky_monkey_item6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable/bg_lucky_monkey_item7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable/bg_lucky_monkey_item8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable/bg_lucky_monkey_item9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable/bg_lucky_monkey_item_overlay.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/drawable/bg_lucky_monkey_panel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/activity_about_me.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/activity_banner_list_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/activity_banner_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/activity_image_gallery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/activity_me_feed_back.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/activity_me_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/activity_me_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/activity_mixture_text.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/activity_monkey_game.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/activity_progress_first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/activity_progress_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/activity_progress_third.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/activity_scroll_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/activity_snap_helper_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/activity_test_first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/activity_test_other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/activity_zoom_large_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/include_app_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/include_scroll_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/item_banner_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/item_snap_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/view_lucky_mokey_panel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/layout/view_panel_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/values/array.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/apk/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/bug/0001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/Screenshot_20190122-153918.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/android/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/android/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/android/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/android/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/android/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/android/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/android/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/android/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/android/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/android/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/android/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/android/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/android/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/android/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/android/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/douban/Screenshot_20190122-115832.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/douban/Screenshot_20190122-115845.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/douban/Screenshot_20190122-115854.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/douban/Screenshot_20190122-115903.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/douban/Screenshot_20190122-115929.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/douban/Screenshot_20190122-115936.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/douban/Screenshot_20190122-115945.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/game/Screenshot_20190121-181248.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/game/Screenshot_20190121-181304.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/game/Screenshot_20190121-181333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/game/Screenshot_20190121-181941.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/game/Screenshot_20190121-181945.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/gank/Screenshot_20190121-183625.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/gank/Screenshot_20190121-183629.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/gank/Screenshot_20190121-183639.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/gank/Screenshot_20190121-183710.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/gank/Screenshot_20190121-184044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/main/Screenshot_2019-01-21-18-05-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/main/Screenshot_2019-01-21-18-05-35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/main/Screenshot_2019-01-21-18-06-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/main/Screenshot_2019-01-21-18-07-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/main/Screenshot_20190121-180631.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/main/Screenshot_20190121-180642.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/main/Screenshot_20190121-180648.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/main/Screenshot_20190121-180717.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/music/Screenshot_20190121-182439.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/music/Screenshot_20190121-182446.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/music/Screenshot_20190121-182527.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/music/Screenshot_20190121-182543.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/music/Screenshot_20190121-182601.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/news/Screenshot_20190121-184402.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/news/Screenshot_20190121-184412.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/news/Screenshot_20190121-184440.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/news/Screenshot_20190121-184444.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/news/Screenshot_20190121-184447.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/news/Screenshot_20190121-184458.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/news/Screenshot_20190121-184504.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/news/Screenshot_20190121-184533.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/note/Screenshot_20190121-185205.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/note/Screenshot_20190121-185221.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/note/Screenshot_20190121-185245.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/video/Screenshot_20190121-183111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/video/Screenshot_20190121-183117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/video/Screenshot_20190121-183124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/组件化架构图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/image/编译时间.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/md/android.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/md/bug.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/md/designPattern.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/md/flutter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/md/java.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/md/kotlin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/md/optimize.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/md/question.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read/md/router.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/app/ToDoApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/contract/PageFragmentContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/contract/SearchListContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/contract/WorkDoContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/contract/WorkNewContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/dagger/DataModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/dagger/UiComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/dagger/UiModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/data/BackupManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/data/PageFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/inter/WorkState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/model/MainPageItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/presenter/PageFragmentPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/presenter/SearchListPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/presenter/WorkDoPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/presenter/WorkNewPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/service/WorkDoNotifyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/ui/WorkDoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/ui/activity/SearchListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/ui/activity/WorkNewActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/ui/activity/WorkSettingActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/ui/adapter/ChoosePriorityAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/ui/adapter/SearchListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/ui/adapter/WorkChooseAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/ui/adapter/WorkDoAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/ui/adapter/WorkPageAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/ui/dialog/WorkChooseColorDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/ui/fragment/PageFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/java/com/ycbjie/todo/ui/fragment/WorkSettingFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/module/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/res/layout/activity_to_do_edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/res/layout/activity_to_do_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/res/layout/do_note_edit_contain.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/res/layout/item_choose_paper_color.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/res/layout/item_choose_priority.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/res/layout/item_to_do_note.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/res/menu/edit_note_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/res/menu/menu_note_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/res/menu/to_do_bottom_sheet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/res/xml/work_do_search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/main/res/xml/work_setting_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/java/com/ycbjie/video/api/VideoApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/java/com/ycbjie/video/api/VideoModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/java/com/ycbjie/video/app/VideoApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/java/com/ycbjie/video/contract/VideoArticleContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/java/com/ycbjie/video/model/MultiNewsArticleBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/java/com/ycbjie/video/model/MultiNewsArticleDataBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/java/com/ycbjie/video/model/VideoContentBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/java/com/ycbjie/video/presenter/VideoArticlePresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/java/com/ycbjie/video/ui/activity/VideoActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/java/com/ycbjie/video/ui/adapter/VideoArticleAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/java/com/ycbjie/video/ui/fragment/VideoArticleFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/java/com/ycbjie/video/ui/fragment/VideoPlayerFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/module/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/res/anim/fragment_slide_down.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/res/anim/fragment_slide_up.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/res/drawable/ic_dots_grey_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/res/layout/base_video_player.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/res/layout/item_news_article_video.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/res/values/array.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ZhiHuApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/api/RetrofitWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/api/ZhiHuApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/api/ZhiHuModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/contract/ZhiHuCommentContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/contract/ZhiHuDailyContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/contract/ZhiHuHotContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/contract/ZhiHuSectionContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/contract/ZhiHuSectionListContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/contract/ZhiHuThemeContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/contract/ZhiHuThemeListContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/model/ZhiHuCommentBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/model/ZhiHuDailyBeforeListBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/model/ZhiHuDailyListBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/model/ZhiHuDetailExtraBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/model/ZhiHuHotBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/model/ZhiHuSectionBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/model/ZhiHuSectionChildBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/model/ZhiHuThemeBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/model/ZhiHuThemeChildBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/model/ZhihuDetailBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/presenter/ZhiHuCommentPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/presenter/ZhiHuDailyPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/presenter/ZhiHuHotPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/presenter/ZhiHuSectionListPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/presenter/ZhiHuSectionPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/presenter/ZhiHuThemeListPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/presenter/ZhiHuThemePresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/activity/ZhiHuCalendarActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/activity/ZhiHuCommentActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/activity/ZhiHuNewsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/activity/ZhiHuSectionListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/activity/ZhiHuThemeListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/adapter/BannerPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/adapter/ZhiHuCommentAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/adapter/ZhiHuDailyAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/adapter/ZhiHuHotAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/adapter/ZhiHuSectionAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/adapter/ZhiHuSectionListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/adapter/ZhiHuThemeAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/adapter/ZhiHuThemeListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/adapter/ZhihuDiffCallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/fragment/ZhiHuCommentFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/fragment/ZhiHuDailyFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/fragment/ZhiHuHotFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/fragment/ZhiHuSectionFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/ui/fragment/ZhiHuThemeFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/utils/HtmlUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/web/activity/WebViewAnimActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/web/contract/WebViewAnimContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/java/com/ycbjie/zhihu/web/presenter/WebViewAnimPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/module/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/res/layout/activity_zh_calendar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/res/layout/base_anim_web_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/res/layout/item_zh_comment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/res/layout/item_zh_news_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/res/layout/item_zh_theme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiHu/src/main/res/values/strings.xml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LifeHelper" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/view/darren/com/dailylife/base/app/BaseApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/library/src/main/java/com/ycbjie/library/base/app/LibApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ext</find>
+      <find>android</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/library/build.gradle" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/view/darren/com/dailylife/ui/guide/view/activity/SplashPagerActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/arrays.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="811" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DailyLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyLife" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="DailyLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyLife" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="DailyLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyLife" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DailyLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyLife" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DailyLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyLife" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DailyLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyLife" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DailyLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyLife" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="activity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DailyLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyLife" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DailyLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyLife" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DailyLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyLife" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="mipmap-hdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DailyLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyLife" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="mipmap-mdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DailyLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyLife" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="mipmap-xhdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DailyLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyLife" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="mipmap-xxhdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DailyLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyLife" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="mipmap-xxxhdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DailyLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyLife" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="device.picker.selection" value="7N2SQL151H036280" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Variables" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="android.studio.gradle" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.2.1" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="989140a4-03cd-4b2f-a12a-7739c017ea97" name="Default Changelist" comment="" />
+      <created>1560602284272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560602284272</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="811" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" x="-3" y="80" width="461" height="324" id="Project" order="0" sideWeight="0.49691358" side_tool="true" weight="0.3297568" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Captures" order="2" sideWeight="0.50308645" side_tool="true" weight="0.3297568" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" weight="0.3297568" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32902297" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" order="4" visible="true" weight="0.28304598" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.1702432" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Codota" order="5" />
+      <window_info anchor="right" id="Preview" order="6" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.6-all/bcst21l2brirad8k2ben1letg/gradle-4.6/src/core-api/org/gradle/api/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="386" column="21" selection-start-line="386" selection-start-column="21" selection-end-line="386" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/ycbjie/library/web/view/WebViewQQActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4260">
+          <caret line="318" column="30" selection-start-line="318" selection-start-column="30" selection-end-line="318" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/main_menu_home.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/android/app/Application.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_weather_home.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/view/darren/com/dailylife/ui/guide/view/activity/AboutMeActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/view/darren/com/dailylife/ui/guide/view/activity/SplashPagerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles_layout.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/arrays.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/attr.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-638" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/view/darren/com/dailylife/base/app/BaseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/ycbjie/library/base/app/LibApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

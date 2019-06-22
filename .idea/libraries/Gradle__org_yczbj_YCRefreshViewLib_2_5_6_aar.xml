@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.yczbj:YCRefreshViewLib:2.5.6@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YCRefreshViewLib-2.5.6.aar/26ae7e84d1a888f299e73eb0d6608f61/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YCRefreshViewLib-2.5.6.aar/26ae7e84d1a888f299e73eb0d6608f61/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.yczbj/YCRefreshViewLib/2.5.6/30b870c5007825b335d6de859e7493e6285dd101/YCRefreshViewLib-2.5.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

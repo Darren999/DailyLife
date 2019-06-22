@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.yc:YCRecycleViewLib:1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YCRecycleViewLib-1.1.aar/4d79b3b1595a30660723adeb1ee24151/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YCRecycleViewLib-1.1.aar/4d79b3b1595a30660723adeb1ee24151/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.yc/YCRecycleViewLib/1.1/59d1feb7dc6bf3daa07d8d777d787ec8c3b0ab49/YCRecycleViewLib-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

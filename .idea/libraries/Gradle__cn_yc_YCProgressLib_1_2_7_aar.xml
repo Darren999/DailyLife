@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.yc:YCProgressLib:1.2.7@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YCProgressLib-1.2.7.aar/5060a20cded94e8fea8d7099f2921d2c/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YCProgressLib-1.2.7.aar/5060a20cded94e8fea8d7099f2921d2c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YCProgressLib-1.2.7.aar/5060a20cded94e8fea8d7099f2921d2c/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.yc/YCProgressLib/1.2.7/bc26d7e009359d78ab52cfcaf20dc84a15afab17/YCProgressLib-1.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

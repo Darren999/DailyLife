@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.yc:YCGalleryLib:1.1.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YCGalleryLib-1.1.5.aar/ff3794292b64def0535aa8730de589f3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/YCGalleryLib-1.1.5.aar/ff3794292b64def0535aa8730de589f3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.yc/YCGalleryLib/1.1.5/213280a073f4be3a778d78e295ab09ac8f3f36a0/YCGalleryLib-1.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
