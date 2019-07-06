@@ -1,7 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
 
-          package="view.darren.com.dailylife"
->
+          package="view.darren.com.dailylife">
     <application
             android:name=".base.app.BaseApplication"
             android:allowBackup="true"
@@ -11,12 +10,18 @@
                  android:supportsRtl="true"
                  android:theme="@style/AppTheme">
 
-        <activity android:name=".ui.guide.view.activity.SplashPagerActivity">
+        <activity android:name=".ui.guide.view.activity.SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".ui.guide.view.activity.GuideActivity"/>
+        <activity android:name=".ui.guide.view.activity.SplashPagerActivity"/>
+        <activity android:name=".ui.guide.view.activity.SelectFollowActivity"/>
+
+        <activity android:name=".ui.main.view.MainActivity"/>
 
     </application>
 

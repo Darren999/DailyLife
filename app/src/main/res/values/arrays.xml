@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="splash_image">
+        <item name="first">@drawable/bg_autumn_tree_min</item>
+        <item name="second">@drawable/bg_small_tree_min</item>
+        <item name="third">@drawable/bg_small_solda_min</item>
+        <item name="four">@drawable/bg_small_kites_min</item>
+    </integer-array>
+
+    <!--数据页图片对应的位子-->
+    <string-array name="select_follow">
+        <item>快递</item>
+        <item>天气</item>
+        <item>记事</item>
+        <item>工商</item>
+        <item>画廊</item>
+        <item>身份</item>
+        <item>人脸</item>
+        <item>归属地</item>
+        <item>空气</item>
+        <item>今日</item>
+        <item>翻译</item>
+        <item>缴费</item>
+        <item>快递</item>
+        <item>天气</item>
+        <item>记事</item>
+        <item>工商</item>
+        <item>画廊</item>
+        <item>身份</item>
+        <item>人脸</item>
+        <item>归属地</item>
+        <item>空气</item>
+        <item>今日</item>
+        <item>翻译</item>
+        <item>缴费</item>
+        <item>快递</item>
+        <item>天气</item>
+        <item>记事</item>
+        <item>工商</item>
+        <item>画廊</item>
+        <item>身份</item>
+        <item>人脸</item>
+        <item>归属地</item>
+        <item>空气</item>
+        <item>今日</item>
+        <item>翻译</item>
+        <item>缴费</item>
+    </string-array>
+
+</resources>
